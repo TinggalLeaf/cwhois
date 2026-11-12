@@ -2,5 +2,13 @@
 name = "cwhois"
 version = "0.1.0"
 edition = "2024"
+description = "中文彩色 whois 客户端，与经典 whois 命令完全兼容（A beautiful Chinese-first whois client, byte-for-byte compatible with the classic whois CLI）"
+license = "GPL-2.0-or-later"
+repository = "https://github.com/TinggalLeaf/cwhois"
+homepage = "https://github.com/TinggalLeaf/cwhois"
+readme = "README.md"
+keywords = ["whois", "cli", "chinese", "idn", "punycode"]
+categories = ["command-line-utilities", "network-programming"]
+rust-version = "1.85"
 
 [dependencies]
